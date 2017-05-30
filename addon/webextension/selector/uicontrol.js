@@ -61,6 +61,9 @@ this.uicontrol = (function() {
   const SCROLLBAR_WIDTH = (window.navigator.platform.match(/Mac/i)) ? 17 : 0;
 
 
+
+
+
   const { sendEvent } = shooter;
   const log = global.log;
 
